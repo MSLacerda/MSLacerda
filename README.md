@@ -10,7 +10,7 @@
   [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSLacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
+Welcome to my GitHub! I'm Matheus Lacerda, a Data Scientist. When I am not studying or programming, I play some games, i like to study about
 
 ### ✔️ I'm currently learning
 - PySpark
