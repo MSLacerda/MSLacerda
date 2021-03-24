@@ -1,6 +1,6 @@
 ⭐️ From [MSLacerda](https://github.com/MSLacerda)
 
-<div align="center"><img alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" /></div>
+<div align="center"><img alt="Banner | JeanCarlos911" src="https://github.com/MSLacerda/MSLacerda/blob/main/Str1k3r%20S1x%20(1).png" /></div>
 
 <p>
   <a>
