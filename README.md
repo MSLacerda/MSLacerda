@@ -4,29 +4,30 @@
 
 <p>
   <a>
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos911&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=MSLacerda&show_icons=true&hide_border=true" />
   </a>
   
-  [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos911&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSLacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
 
 ### ✔️ I'm currently learning
-- Kotlin (android development)
-- Java (desktop apps)
+- PySpark
+- AWS GLUE
+- Recommendation Systems
 
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
-### 💡 Goals for 2020:
-- Finish my first app on android and publish it on play store
-- Learn the basics of JavaScript, TypeScript
-- Become skilled in Java, kotlin
-- Grow as a person
-
+### 💡 Goals for 2021:
+- 
 ### ⚡ Relevant achievement
-- Enter the Francisco José de Caldas district university at a very low cost
+- Start a Master Degree
+- I already deployed 4 apps in playstore and appstore
+- I already deployed a microservices arch with payment system
+- I already deployd ML models 
+- I already created an automatic pipeline of deployment with github actions, AWS Code Pipeline and microsoft appcenter. 
 
 ### 🛠 Interested in:
-- Desktop, mobile, fronted, devOps, games, designer.
+- Machine Learning, Data Science, Data Egineering, DevOps, MLOps...
