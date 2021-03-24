@@ -10,7 +10,7 @@
   [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSLacerda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-Welcome to my GitHub! I'm Matheus Lacerda, a Data Scientist. When I am not studying or programming, I play some games, i like to study about
+Welcome to my GitHub! I'm Matheus Lacerda, a Data Scientist. When I am not studying or programming, machine learning models and statistics stuffs, i play some games or i study about others areas, like UX, DevOps and Cloud Computing.
 
 ### ✔️ I'm currently learning
 - PySpark
