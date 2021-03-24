@@ -21,7 +21,9 @@ Welcome to my GitHub! I'm Matheus Lacerda, a Data Scientist. When I am not study
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
 ### 💡 Goals for 2021:
-- 
+- Finish my Data Science Portfolio
+- Finish my personal projects
+
 ### ⚡ Relevant achievement
 - Start a Master Degree
 - I already deployed 4 apps in playstore and appstore
